@@ -1,5 +1,7 @@
 # Matilda Restoration
 
+[User Guide](./User-Guide-C.pdf)
+
 ## Description
 
 A restoration of a derelict emergency response robot. This was accomplished as part of an undergraduate thesis course for Toronto Metropolitan University's N-CART division.
