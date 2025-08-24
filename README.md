@@ -1,6 +1,6 @@
 # Matilda Restoration
 
-[User Guide](./User-Guide-C.pdf)
+[User Guide](./User-Guide-C.pdf) (You may need to download this to see images.)
 
 ## Description
 
