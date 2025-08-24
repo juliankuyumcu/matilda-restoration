@@ -28,4 +28,4 @@ A restoration of a derelict emergency response robot. This was accomplished as p
 ## Project Demonstration Video - YouTube 
 
 [<img src="https://img.youtube.com/vi/3SzwsqPXLCs/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/3SzwsqPXLCs)
+/>](https://youtu.be/3SzwsqPXLCs)
